@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise23</string>
+    <string name="iniciocapturar">Tomar Fotografia</string>
+    <string name="botonGuardar">Guardar Fotografia</string>
+    <string name="verLista">Ver lista de Fotografias</string>
+    <string name="descripcion">Descripcion</string>
+</resources>
